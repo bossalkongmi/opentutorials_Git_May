@@ -19,6 +19,7 @@ Git, Hi!
 <li> crash</li>
 <li> crash resolved</li>
 <li>branchs</li>
+<li> synchronization </li>
 </ul>
 
 </body>
