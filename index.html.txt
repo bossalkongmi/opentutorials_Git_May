@@ -22,6 +22,7 @@ Git, Hi!
 <li> synchronization </li>
 <li>push and pull</li>
 <li>work together</li>
+<li> hi I am cheese</li>
 </ul>
 
 </body>
