@@ -8,6 +8,7 @@ Git, Hi!
 <li>sotrage</li>
 <li>version</li>
 <li>heheh</li>
+<li>hai hi</li>
 </ul>
 
 </body>
