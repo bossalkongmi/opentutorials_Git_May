@@ -1,7 +1,14 @@
 <html>
+
 <body> 
 <header>
 Git, Hi!
 </header>
+<ul>
+<li>sotrage</li>
+<li>version</li>
+</ul>
+
 </body>
+
 </html>
