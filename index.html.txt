@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
- Git title
+ Git title 10/Jan
 </title>
  </head>
 <body> 
