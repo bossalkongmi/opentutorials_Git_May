@@ -20,6 +20,7 @@ Git, Hi!
 <li> crash resolved</li>
 <li>branchs</li>
 <li> synchronization </li>
+<li>push and pull</li>
 </ul>
 
 </body>
